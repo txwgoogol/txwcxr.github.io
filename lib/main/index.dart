@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sample/widgets/navigation.dart';
+import 'package:flutter_app/widgets/navigation.dart';
 
 import 'data/data_page.dart';
 import 'home/home_page.dart';
