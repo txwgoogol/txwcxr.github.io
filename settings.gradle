@@ -1,0 +1,3 @@
+include ':maven'
+include ':app'
+rootProject.name = "component-ktx-code"
