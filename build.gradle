@@ -18,7 +18,8 @@ allprojects {
             url uri("${rootProject.projectDir}/repo")
         }
         maven {
-            url uri("https://raw.githubusercontent.com/repo/jetpack/androidx/master")
+            //私服
+            url uri("https://raw.githubusercontent.com/txwgoogol/component-ktx/master")
         }
     }
 }
